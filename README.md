@@ -5,7 +5,7 @@ A simple single page website clone of a [
 
 ## Website
 
-[https://rclu30.github.io/start-bootstrap-landing-page/](https://rclu30.github.io/start-bootstrap-landing-page/)
+[https://rickyklu.github.io/start-bootstrap-landing-page/](https://rickyklu.github.io/start-bootstrap-landing-page/)
 
 ## Motivation
 
