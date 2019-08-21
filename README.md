@@ -5,7 +5,7 @@ A simple single page website clone of a [
 
 ## Website
 
-[https://rickyklu.github.io/start-bootstrap-landing-page/](https://rickyklu.github.io/start-bootstrap-landing-page/)
+[https://rickyklu.github.io/start-bootstrap-landing-page/](https://rickyklu.github.io/startup-bootstrap-landing/)
 
 ## Motivation
 
@@ -13,14 +13,14 @@ An project from [P1xt job ready guide for Javascript developers](https://github.
 
 ## Credits
 
- - [P1xt](https://github.com/P1xt) for writing the guide
- - [blackrockdigital](http://blackrockdigital.io/) for creating the website
+- [P1xt](https://github.com/P1xt) for writing the guide
+- [blackrockdigital](http://blackrockdigital.io/) for creating the website
 
 ## License
 
 MIT License
 
-Copyright (c) [2018] [Ricky Lu]
+Copyright (c) [2018][ricky lu]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
